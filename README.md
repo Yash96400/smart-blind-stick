@@ -1,3 +1,3 @@
 # smart-blind-stick
 Required Components 
-Arduino Uno , Ultrasonic sensor , 9volt battery ,connecting cables , pvc pipe 
+Arduino Uno , Ultrasonic sensor , 9volt battery ,connecting cables , pvc pipe ,vibration motor & Buzzer
